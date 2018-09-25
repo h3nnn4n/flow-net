@@ -114,7 +114,7 @@ function spawn() {
 }
 
 function setup() {
-  var cnv = createCanvas(800, 600);
+  var cnv = createCanvas(700, 600);
   cnv.parent('flow-controls');
 
   setControls();
